@@ -194,17 +194,17 @@ p {
 .journal-entry.opportunity {
   margin-top: 0px;
   padding-top: 10px;
-  background-color: rgba(226, 46, 65, 0.05);
+  background-color: rgba(226, 46, 65, 0.04);
 }
 .journal-entry.approach {
   margin-top: 0px;
   padding-top: 10px;
-  background-color: rgba(228, 124, 93, 0.05);
+  background-color: rgba(228, 124, 93, 0.04);
 }
 .journal-entry.next {
   margin-top: 0px;
   padding-top: 10px;
-  background-color: rgba(89, 179, 144, 0.14);
+  background-color: rgba(89, 179, 144, 0.13);
 }
 .logo-link {
   color: #333;
@@ -337,7 +337,7 @@ p {
   margin-bottom: 20px;
   padding: 15px 25px 1px;
   border: 1px solid #ddd;
-  background-color: rgba(226, 46, 65, 0.07);
+  background-color: rgba(226, 46, 65, 0.06);
 }
 .box.mango {
   border-style: solid;
